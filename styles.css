@@ -1,0 +1,27 @@
+img {
+    width: absolute;
+    height: absolute;
+    position: relative;
+}
+
+
+.ted {
+  bottom: 0;
+  left: 0;
+}
+
+
+  .drink {
+    bottom: 0;
+    right: 0;
+  }
+
+  .table {
+    top: 0;
+    left: 0;
+  }
+
+  .gifbckgrnd {
+    top: 0;
+    right: 0;
+  }
